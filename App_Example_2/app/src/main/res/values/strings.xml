@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_Example_2</string>
+    <string name="enviar">Enviar</string>
+    <string name="ingresar_email">Ingresar Email</string>
+</resources>
