@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz_Geo</string>
+    <string name="question">¿Es Lima capital de Chile?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="sgte">sgte</string>
+</resources>
