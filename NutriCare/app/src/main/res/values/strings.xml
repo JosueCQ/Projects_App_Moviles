@@ -8,4 +8,8 @@
     <string name="informate_mas">Informate Mas</string>
     <string name="historial">Historial</string>
     <string name="citas">Citas</string>
+    <string name="calorias">Calorias:</string>
+    <string name="ingredientes">Ingredientes:</string>
+    <string name="tiempo_prepa">Tiempo Prepa:</string>
+    <string name="informacion_nutricional">Informacion Nutricional</string>
 </resources>
