@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">NutriCare</string>
-    <string name="app_name">NutriCare</string>
+
     <string name="asesorias">Asesorias</string>
-    <string name="asesorias">Asesorias</string>
+    <string name="historial_nutricional">Historial Nutricional</string>
+    <string name="dietas_recetas">Dietas/Recetas</string>
+    <string name="perfil">Perfil</string>
+    <string name="informate_mas">Informate Mas</string>
+    <string name="historial">Historial</string>
+    <string name="citas">Citas</string>
 </resources>

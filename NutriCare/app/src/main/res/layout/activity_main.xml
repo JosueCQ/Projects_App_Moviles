@@ -57,7 +57,7 @@
         android:layout_height="50dp"
         android:layout_marginEnd="84dp"
         android:backgroundTint="#7fa208"
-        android:text="Historial Nutricional"
+        android:text="@string/historial_nutricional"
         app:cornerRadius="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btAsesorias" />
@@ -68,7 +68,7 @@
         android:layout_height="50dp"
         android:layout_marginEnd="40dp"
         android:backgroundTint="#7fa208"
-        android:text="Dietas/Recetas"
+        android:text="@string/dietas_recetas"
         app:cornerRadius="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btHistoNutric" />
@@ -79,7 +79,7 @@
         android:layout_height="50dp"
         android:layout_marginEnd="80dp"
         android:backgroundTint="#7fa208"
-        android:text="Perfil"
+        android:text="@string/perfil"
         app:cornerRadius="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btDietRece" />
@@ -90,7 +90,7 @@
         android:layout_height="50dp"
         android:layout_marginEnd="116dp"
         android:backgroundTint="#7fa208"
-        android:text="Informate Mas"
+        android:text="@string/informate_mas"
         app:cornerRadius="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btPerfil" />
@@ -102,7 +102,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
         android:backgroundTint="#7fa208"
-        android:text="Historial"
+        android:text="@string/historial"
         android:textSize="12sp"
         app:cornerRadius="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -114,7 +114,7 @@
         android:layout_height="35dp"
         android:layout_marginEnd="16dp"
         android:backgroundTint="#7fa208"
-        android:text="Citas"
+        android:text="@string/citas"
         android:textSize="12sp"
         app:cornerRadius="25dp"
         app:layout_constraintBottom_toTopOf="@+id/btHistorial"
